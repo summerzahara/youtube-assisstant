@@ -1,0 +1,10 @@
+langchain
+langchain_community
+langchain-openai
+openai
+streamlit
+python-dotenv
+icecream
+youtube-transcript-api
+faiss-cpu
+pytube
